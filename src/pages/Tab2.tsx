@@ -23,3 +23,8 @@ const Tab2: React.FC = () => {
 };
 
 export default Tab2;
+
+
+
+/* This page will act as the homepage of the app. There will be a calendar with the current date easily seen by the user. I will use an external API to pull a holiday to display at the 
+bottom of the page in a card. */
